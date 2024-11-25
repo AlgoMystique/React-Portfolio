@@ -43,6 +43,9 @@ Downloadable Resume: Easy access to my resume as a downloadable file.
 
 GitHub & LinkedIn Links: Direct links to my developer profiles and third-party platform profile.
 
+Dark Mode: The portfolio includes a dark mode toggle, allowing users to switch between light and dark themes for improved accessibility and a better visual experience.
+
+
 ## Technologies Used
 
 React: JavaScript library for building user interfaces.
