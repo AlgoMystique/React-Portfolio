@@ -34,14 +34,23 @@ Open the project in your browser at http://localhost:5173.
 ## Features
 
 Responsive Design: The portfolio is fully responsive and adjusts to various screen sizes.
+
 Navigation: Smooth navigation between sections with active link highlighting.
+
 Form Validation: Ensures all required fields are filled out and the email address is valid.
+
 Downloadable Resume: Easy access to my resume as a downloadable file.
+
 GitHub & LinkedIn Links: Direct links to my developer profiles and third-party platform profile.
-Technologies Used
+
+## Technologies Used
+
 React: JavaScript library for building user interfaces.
+
 Tailwind CSS: Utility-first CSS framework for building responsive and custom designs.
+
 Vite: Next-generation build tool that provides fast build and hot module replacement.
+
 HTML & CSS: Basic building blocks for structure and style.
 
 ## Site is Live at- Netlify. 
