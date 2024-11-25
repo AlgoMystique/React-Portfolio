@@ -1,4 +1,4 @@
-# Web Developer Portfolio
+# Web Developer React Portfolio
 
 This is a single-page web developer portfolio application built with **React**, **Tailwind CSS**, and **Vite**. The portfolio showcases my web development skills, including a brief biography, portfolio of projects, contact form, and downloadable resume.
 
